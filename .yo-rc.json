@@ -42,7 +42,9 @@
     "testFrameworks": [],
     "useSass": true,
     "websocket": false,
-    "withAdminUi": true
+    "withAdminUi": true,
+    "entities": ["Student", "Teacher", "Subject", "Course"],
+    "lastLiquibaseTimestamp": 1644877369000
   },
   "git-provider": "GitHub",
   "git-company": "AnalyticsCat",
